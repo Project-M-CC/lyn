@@ -1,0 +1,15 @@
+Updates (brief description): legend: *recent; ___just back then.
+
+-Has her Up smash, Uair, and up throw from her early development movesets.
+	() Fixed the position of her sword glow and hitboxes to point to her katana on all three moves.
+	() Buffed her up smash from her beta.
+	() Tweaked the number of hitboxes and transition of these so they appear on the entire frames of the attacks.
+-*Replaced her Dair with her Unused Dair Attack and copy pasted the hitboxes to a synchronized frame so as to have the hitboxes be alighned to the sword's frames as well as its sword glow GFX.
+
+-Decreased the number of frames of her Vantage and Vantage air down to 50 frames per seconds to decrease lag.
+-*Added the HiltN bone as a hitbox and realighned the hitboxes to fit the sword's axis. Easening Vantage hit strikes.
+-Balanced her Vantage a little from my OP incarnation (lol).
+-Replaced her horizontal nair over LXP Lucina's Nair.
+	() Fixed the sword glow position of her Nair.
+
+Well that's pretty much all the briefing I will elaborate, if you want some detailed changes use PSA and figure out the values yourself. Enjoy this awesome Lyn! 
